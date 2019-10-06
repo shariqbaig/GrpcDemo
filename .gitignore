@@ -1,0 +1,10 @@
+/.vs/GrpcServer
+/GrpcServer/Log
+/GrpcServer/GrpcServer.csproj.user
+/GrpcServer/obj
+/GrpcServer/bin
+/.vs/GrpcServer
+/GrpcClient/Log
+/GrpcClient/GrpcClient.csproj.user
+/GrpcClient/obj
+/GrpcClient/bin
